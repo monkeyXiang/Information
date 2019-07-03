@@ -1,0 +1,4 @@
+# Information
+Information Management System
+本项目使用eclipse，将项目文件导入IDE项目列表中，由于是基于JavaSwing的项目，可以本地运行在Navicat中导入ZIP文件中的
+Sql文件连接数据库。在项目中的view包中的login类点击运行就能够跑起来了
